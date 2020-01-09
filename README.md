@@ -6,4 +6,4 @@ Using Python, I constructed a dynamic RFM model providing monthly Recency, Frequ
 I subsequently used panel data modelling to fashion RFM composite indicators, to target first customer spending and second the incidence of customer transactions. I then subjected the RFM model to hypothesis tests, which confirmed its usefulness in measuring the customer metrics of choice. The code for this are in "dynamic_rfm_III".
 
 A detailed description of the research methodology and model findings are presented in:
-https://medium.com/@a.tzytien.tan/dynamic-customer-analytics-i-9135b2a8854b
+https://towardsdatascience.com/dynamic-customer-analytics-i-9135b2a8854b
