@@ -1,4 +1,5 @@
-# Dynamic_customer_analytics
+# Dynamic Customer Analytics: Crafting & testing a dynamic Recency-Frequency-Monetary (RFM) model
+
 Data engineering and panel data modelling of the online retail dataset covering transactions made from a UK online wholesaler between December 2010 and December 2011.
 
 Using Python, I constructed a dynamic RFM model providing monthly Recency, Frequency and Monetary scores for each customer based on their evolving behavior. To do so, I aggregated the original intraday data into daily frequency initially, and then into monthly frequency. Monthly periodicity was identified as the optimal frequency for customer analytics in this case. The code for this are contained in "dynamic_rfm_I" and "dynamic_rfm_II".
